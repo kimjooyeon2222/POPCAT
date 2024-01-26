@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Grape+Nuts&family=Rubik+Maps&display=swap');
+.App {
+  text-align: center;
+  background-color: pink;
+  padding:20px;
+  font-family: 'Rubik Maps', system-ui;
+  color: rgb(127, 105, 212);
+}
+
+
+img {
+  width: 500px; /* 원하는 가로 크기로 조절 */
+  height: auto; /* 자동으로 세로 크기 조절 (비율 유지) */
+  padding: 50px;
+}
+
+h1{
+  margin-top: 20px;
+  font-size: 60px;
+}
+
+h2{
+  margin-bottom: 10px;
+  font-size: 50px;
+}
+
